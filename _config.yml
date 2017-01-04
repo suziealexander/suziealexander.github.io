@@ -1,0 +1,10 @@
+# Site settings
+title: SuzieNotes
+description: "Recipes, notes, and thoughts from Suzie"
+keywords: 
+- Modern
+- Blogging
+- Fun
+author: Suzie Alexander
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
